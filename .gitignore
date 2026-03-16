@@ -1,0 +1,17 @@
+# C/C++ build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# VS Code and runner temp files
+.vscode/ipch/
+**/tempCodeRunnerFile.cpp
+**/tempCodeRunnerFile.*
+
+# OS files
+.DS_Store
+Thumbs.db
